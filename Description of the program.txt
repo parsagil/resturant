@@ -1,0 +1,17 @@
+This software is the basic version of a smart restaurant that is under development.
+
+
+ 
+With this software you can :
+
+ 1 ) Reservation
+ 2 ) Restaurant menu
+ 3 ) counting
+
+
+
+in the demo version of this software
+
+
+
+This software is under development and soon its advanced versions will be made private . 
